@@ -5,6 +5,8 @@ import java.util.List;
 import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
+import javax.validation.constraints.NotNull;
+
 import br.com.alura.forum.modelo.Topico;
 
 public class TopicoDto {
